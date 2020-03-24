@@ -1,0 +1,31 @@
+case_id,date,YYYYMMDD,country,province,geo_subdivision,age,gender,transmission_type,type,date of return,symptoms,current status,source
+1,03-03-2020,20200303,South Africa,KZN,ZA-KZN,38,male,Travelled to Italy,travel,,symptomatic,stable condition,http://www.nicd.ac.za/media/alerts/
+2,07-03-2020,20200307,South Africa,GP,ZA-GP,39,female,Travelled to Italy,travel,,symptomatic,,http://www.nicd.ac.za/media/alerts/
+3,08-03-2020,20200308,South Africa,KZN,ZA-KZN,38,female,Travelled to Italy,travel,,symptomatic,,http://www.nicd.ac.za/media/alerts/
+4,09-03-2020,20200309,South Africa,KZN,ZA-KZN,38,male,Travelled to Italy,travel,,symptomatic,,http://www.nicd.ac.za/media/alerts/
+5,09-03-2020,20200309,South Africa,KZN,ZA-KZN,38,female,Travelled to Italy,travel,,symptomatic,,http://www.nicd.ac.za/media/alerts/
+6,09-03-2020,20200309,South Africa,KZN,ZA-KZN,45,male,Travelled to Italy,travel,,symptomatic,,http://www.nicd.ac.za/media/alerts/
+7,09-03-2020,20200309,South Africa,KZN,ZA-KZN,38,male,Travelled to Italy,travel,,symptomatic,,http://www.nicd.ac.za/media/alerts/
+8,11-03-2020,20200311,South Africa,GP,ZA-GP,33,female,Travelled to Italy,travel,01-03-2020,symptomatic,,http://www.nicd.ac.za/media/alerts/
+9,11-03-2020,20200311,South Africa,GP,ZA-GP,33,female,Travelled to Germany,travel,09-03-2020,symptomatic,,http://www.nicd.ac.za/media/alerts/
+9,11-03-2020,20200311,South Africa,GP,ZA-GP,34,male,Travelled to Germany,travel,09-03-2020,symptomatic,,http://www.nicd.ac.za/media/alerts/
+10,11-03-2020,20200311,South Africa,GP,ZA-GP,57,male,Travelled to Austria and Italy,travel,9-03-2020,symptomatic,,http://www.nicd.ac.za/media/alerts/
+11,11-03-2020,20200311,South Africa,KZN,ZA-KZN,40,male,Travelled to Portugal,travel,7-03-2020,symptomatic,,http://www.nicd.ac.za/media/alerts/
+12,11-03-2020,20200311,South Africa,WC,ZA-WC,36,male,Travelled to Germany; Austria; Switzerland and Turkey,travel,9-03-2020,symptomatic,,http://www.nicd.ac.za/media/alerts/
+13,12-03-2020,20200312,South Africa,KZN,ZA-KZN,38,male,Turkish resident travelled to the UK,travel,7-03-2020,symptomatic,,https://twitter.com/HealthZA/
+14,12-03-2020,20200312,South Africa,MP,ZA-MP,27,female,Travelled to the united states,travel,7-03-2020,symptomatic,,https://twitter.com/HealthZA/
+15,12-03-2020,20200312,South Africa,GP,ZA-GP,43,male,Travelled to New York via Dubai,travel,8-03-2020,symptomatic,,https://twitter.com/HealthZA/
+16,12-03-2020,20200312,South Africa,FS,ZA-FS,32,male,came into contact with a Chinese businessman,local transmission,,moderate symptoms,,https://twitter.com/HealthZA/
+17,13-03-2020,20200313,South Africa,GP,ZA-GP,39,female,travelled to Switzerland and Austria,travel,,,,http://www.nicd.ac.za/media/alerts/
+18,13-03-2020,20200313,South Africa,GP,ZA-GP,50,travelled to Austria,travel,,,,,http://www.nicd.ac.za/media/alerts/
+
+
+
+
+
+
+
+
+
+
+
