@@ -19,7 +19,7 @@ case_id,date,YYYYMMDD,country,province,geo_subdivision,age,gender,transmission_t
 17,13-03-2020,20200313,South Africa,GP,ZA-GP,39,female,travelled to Switzerland and Austria,travel,,,,http://www.nicd.ac.za/media/alerts/
 18,13-03-2020,20200313,South Africa,GP,ZA-GP,50,travelled to Austria,travel,,,,,http://www.nicd.ac.za/media/alerts/
 19,13-03-2020,20200313,South Africa,GP,ZA-GP,21,travelled to Italy,travel,,,,,http://www.nicd.ac.za/media/alerts/
-20,13-03-2020,20200313,South Africa,GP,ZA-GP,57,travelled to Switzerland,,,,,http://www.nicd.ac.za/media/alerts/
+20,13-03-2020,20200313,South Africa,GP,ZA-GP,57,travelled to Switzerland,travel,,,,,http://www.nicd.ac.za/media/alerts/
 
 
 
