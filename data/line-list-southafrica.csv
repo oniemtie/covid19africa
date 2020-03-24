@@ -38,8 +38,19 @@ case_id,date,YYYYMMDD,country,province,geo_subdivision,age,gender,transmission_t
 36,14-03-2020,20200314,South Africa,WC,ZA-WC,73,male,Travelled to UK,travel,,,,https://twitter.com/HealthZA/
 37,14-03-2020,20200314,South Africa,WC,ZA-WC,32,male,Travelled to UK,travel,,,,https://twitter.com/HealthZA/
 38,14-03-2020,20200314,South Africa,KZN,ZA-KZN,47,male,Travelled to Switzerland,travel,,,,https://twitter.com/HealthZA/
-
-
+39,15-03-2020,20200315,South Africa,GP,ZA-GP,60,male,Travelled to Iran,travel,,,,http://www.nicd.ac.za/media/alerts/
+40,15-03-2020,20200315,South Africa,GP,ZA-GP,36,male,Travelled to UK,travel,,,,http://www.nicd.ac.za/media/alerts/
+41,15-03-2020,20200315,South Africa,GP,ZA-GP,54,male,Travelled to Switzerland,travel,,,,http://www.nicd.ac.za/media/alerts/
+42,15-03-2020,20200315,South Africa,GP,ZA-GP,27,male,Travelled to UK,travel,,,,http://www.nicd.ac.za/media/alerts/
+43,15-03-2020,20200315,South Africa,GP,ZA-GP,21,female,Travelled to Germany,travel,,,,http://www.nicd.ac.za/media/alerts/
+44,15-03-2020,20200315,South Africa,GP,ZA-GP,53,female,Travelled to Germany,travel,,,,http://www.nicd.ac.za/media/alerts/
+45,15-03-2020,20200315,South Africa,GP,ZA-GP,29,male,Travelled to Switzerland,travel,,,,http://www.nicd.ac.za/media/alerts/
+46,15-03-2020,20200315,South Africa,WC,ZA-WC,35,female,Travelled to Germany and Austria,travel,,,,http://www.nicd.ac.za/media/alerts/
+47,15-03-2020,20200315,South Africa,WC,ZA-WC,42,female,Travelled to Spain; Switzerland and UK,travel,,,,http://www.nicd.ac.za/media/alerts/
+48,15-03-2020,20200315,South Africa,WC,ZA-WC,50,male,Travelled to Netherlands,travel,,,,http://www.nicd.ac.za/media/alerts/
+49,15-03-2020,20200315,South Africa,WC,ZA-WC,39,male,Travelled to Switzerland,travel,,,,http://www.nicd.ac.za/media/alerts/
+50,15-03-2020,20200315,South Africa,WC,ZA-WC,35,male,Travelled to Austria,travel,,,,http://www.nicd.ac.za/media/alerts/
+51,15-03-2020,20200315,South Africa,KZN,ZA-KZN,34,male,Travelled to UK,travel,,,,http://www.nicd.ac.za/media/alerts/
 
 
 
