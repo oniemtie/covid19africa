@@ -1,5 +1,5 @@
 case_id,date,YYYYMMDD,country,province,geo_subdivision,age,gender,transmission_type,type,date of return,symptoms,current status,source
-1,03-03-2020,20200303,South Africa,KZN,ZA-KZN,38,male,Travelled to Italy,travel,,symptomatic,stable condition,http://www.nicd.ac.za/media/alerts/
+1,03-03-2020,20200303,South Africa,KZN,ZA-KZN,38,male,Travelled to Italy,travel,,symptomatic,recovered,http://www.nicd.ac.za/media/alerts/
 2,07-03-2020,20200307,South Africa,GP,ZA-GP,39,female,Travelled to Italy,travel,,symptomatic,,http://www.nicd.ac.za/media/alerts/
 3,08-03-2020,20200308,South Africa,KZN,ZA-KZN,38,female,Travelled to Italy,travel,,symptomatic,,http://www.nicd.ac.za/media/alerts/
 4,09-03-2020,20200309,South Africa,KZN,ZA-KZN,38,male,Travelled to Italy,travel,,symptomatic,,http://www.nicd.ac.za/media/alerts/
