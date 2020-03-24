@@ -17,11 +17,11 @@ case_id,date,YYYYMMDD,country,province,geo_subdivision,age,gender,transmission_t
 15,12-03-2020,20200312,South Africa,GP,ZA-GP,43,male,Travelled to New York via Dubai,travel,8-03-2020,symptomatic,,https://twitter.com/HealthZA/
 16,12-03-2020,20200312,South Africa,FS,ZA-FS,32,male,came into contact with a Chinese businessman,local transmission,,moderate symptoms,,https://twitter.com/HealthZA/
 17,13-03-2020,20200313,South Africa,GP,ZA-GP,39,female,travelled to Switzerland and Austria,travel,,,,http://www.nicd.ac.za/media/alerts/
-18,13-03-2020,20200313,South Africa,GP,ZA-GP,50,travelled to Austria,travel,,,,,http://www.nicd.ac.za/media/alerts/
-19,13-03-2020,20200313,South Africa,GP,ZA-GP,21,travelled to Italy,travel,,,,,http://www.nicd.ac.za/media/alerts/
-20,13-03-2020,20200313,South Africa,GP,ZA-GP,57,travelled to Switzerland,travel,,,,,http://www.nicd.ac.za/media/alerts/
-
-
+18,13-03-2020,20200313,South Africa,GP,ZA-GP,50,male,travelled to Austria,travel,,,,http://www.nicd.ac.za/media/alerts/
+19,13-03-2020,20200313,South Africa,GP,ZA-GP,21,female,travelled to Italy,travel,,,,http://www.nicd.ac.za/media/alerts/
+20,13-03-2020,20200313,South Africa,GP,ZA-GP,57,male,travelled to Switzerland,travel,,,,http://www.nicd.ac.za/media/alerts/
+21,13-03-2020,20200313,South Africa,KZN,ZA-KZN,79,male,travelled to Greece and Italy,travel,,,,http://www.nicd.ac.za/media/alerts/
+22,13-03-2020,20200313,South Africa,KZN,ZA-KZN,52,male,travelled to Switzerland,travel,,,,http://www.nicd.ac.za/media/alerts/
 
 
 
