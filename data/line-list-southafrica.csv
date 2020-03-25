@@ -402,7 +402,6 @@ case_id,date,YYYYMMDD,country,province,geo_subdivision,age,gender,transmission_t
 400,23-03-2020,20200322,South Africa,WC,ZA-WC,,not specified,,pending,,,,http://www.nicd.ac.za/media/alerts/
 401,23-03-2020,20200322,South Africa,WC,ZA-WC,,not specified,,pending,,,,http://www.nicd.ac.za/media/alerts/
 402,23-03-2020,20200322,South Africa,WC,ZA-WC,,not specified,,pending,,,,http://www.nicd.ac.za/media/alerts/
-
 403,24-03-2020,20200324,South Africa,GP,ZA-GP,,not specified,,pending,,,,https://twitter.com/HealthZA/
 404,24-03-2020,20200324,South Africa,GP,ZA-GP,,not specified,,pending,,,,https://twitter.com/HealthZA/
 405,24-03-2020,20200324,South Africa,GP,ZA-GP,,not specified,,pending,,,,https://twitter.com/HealthZA/
@@ -501,6 +500,63 @@ case_id,date,YYYYMMDD,country,province,geo_subdivision,age,gender,transmission_t
 
 
 
+498,24-03-2020,20200324,South Africa,NW,ZA-NW,,not specified,,pending,,,,https://twitter.com/HealthZA/
+499,24-03-2020,20200324,South Africa,FS,ZA-FS,,not specified,,pending,,,,https://twitter.com/HealthZA/
+500,24-03-2020,20200324,South Africa,FS,ZA-FS,,not specified,,pending,,,,https://twitter.com/HealthZA/
+501,24-03-2020,20200324,South Africa,FS,ZA-FS,,not specified,,pending,,,,https://twitter.com/HealthZA/
+502,24-03-2020,20200324,South Africa,FS,ZA-FS,,not specified,,pending,,,,https://twitter.com/HealthZA/
+503,24-03-2020,20200324,South Africa,FS,ZA-FS,,not specified,,pending,,,,https://twitter.com/HealthZA/
+504,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+505,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+506,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+507,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+508,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+509,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+510,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+511,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+512,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+513,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+514,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+515,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+516,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+517,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+518,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+519,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+520,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+521,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+522,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+523,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+524,24-03-2020,20200324,South Africa,KZN,ZA-KZN,,not specified,,pending,,,,https://twitter.com/HealthZA/
+525,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+526,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+527,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+528,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+529,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+530,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+531,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+532,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+533,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+534,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+535,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+536,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+537,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+538,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+539,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+540,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+541,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+542,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+543,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+544,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+545,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+546,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+547,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+548,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+549,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+550,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+551,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+552,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+553,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
+554,24-03-2020,20200324,South Africa,WC,ZA-WC,,not specified,,pending,,,,https://twitter.com/HealthZA/
 
 
 
