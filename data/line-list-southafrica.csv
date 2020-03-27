@@ -2,7 +2,7 @@ case_id, origin_case_id, date, age, gender, city, province/state, country, curre
 0,,YYYY-MM-DD,,,,,,,,,,YYYY-MM-DD,YYYY-MM-DD,,YYYY-MM-DD,,YYYY-MM-DD,
 1,05-03-2020,20200305,38,male,,KZN,South Africa,,Travelled to Italy,asympotic,,,,,,,,Most of the information is not available.
 
-600,25-03-2020,20200325,,,,WC,South Africa,,not specified,,,,,,,,,,,,,,,,pending
+600,25-03-2020,20200325,,,,WC,South Africa,,not specified,,,,,,,,,pending
 
 
 
