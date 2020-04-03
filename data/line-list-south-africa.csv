@@ -1437,17 +1437,14 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 1327,,2020-03-31,,not specified,,GP,South Africa,,,,,,,,,,,
 1328,,2020-03-31,,not specified,,GP,South Africa,,,,,,,,,,,
 1329,,2020-03-31,,not specified,,GP,South Africa,,,,,,,,,,,
-1330,,2020-03-31,,not specified,,WC,South Africa,,,,,,,,,,,
-
-
-
-1339,,2020-03-31,,not specified,,FS,South Africa,,,,,,,,,,
-1340,,2020-03-31,,not specified,,FS,South Africa,,,,,,,,,,
-1341,,2020-03-31,,not specified,,LP,South Africa,,,,,,,,,,
-1342,,2020-03-31,,not specified,,LP,South Africa,,,,,,,,,,
-1343,,2020-03-31,,not specified,,LP,South Africa,,,,,,,,,,
-1344,,2020-03-31,,not specified,,MP,South Africa,,,,,,,,,,
-1345,,2020-03-31,,not specified,,NC,South Africa,,,,,,,,,,
-1346,,2020-03-31,,not specified,,NC,South Africa,,,,,,,,,,
-1347,,2020-03-31,,not specified,,NC,South Africa,,,,,,,,,,
+1264,,2020-03-30,,not specified,,GP,South Africa,,,,,,,,,,,
+1339,,2020-03-31,,not specified,,FS,South Africa,,,,,,,,,,,
+1340,,2020-03-31,,not specified,,FS,South Africa,,,,,,,,,,,
+1341,,2020-03-31,,not specified,,LP,South Africa,,,,,,,,,,,
+1342,,2020-03-31,,not specified,,LP,South Africa,,,,,,,,,,,
+1343,,2020-03-31,,not specified,,LP,South Africa,,,,,,,,,,,
+1344,,2020-03-31,,not specified,,MP,South Africa,,,,,,,,,,,
+1345,,2020-03-31,,not specified,,NC,South Africa,,,,,,,,,,,
+1346,,2020-03-31,,not specified,,NC,South Africa,,,,,,,,,,,
+1347,,2020-03-31,,not specified,,NC,South Africa,,,,,,,,,,,
 
